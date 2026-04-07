@@ -79,6 +79,8 @@ weight:
 platforms:
   - id: "toutiao"
     name: "今日头条"
+  - id: "v2ex-share"
+    name: "V2EX"
   - id: "baidu"
     name: "百度热搜"
   - id: "wallstreetcn-hot"
